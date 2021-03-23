@@ -1,0 +1,16 @@
+D:\Repository\Transferencia_Bancaria\DIO.Bank\bin\Debug\net5.0\DIO.Bank.exe
+D:\Repository\Transferencia_Bancaria\DIO.Bank\bin\Debug\net5.0\DIO.Bank.deps.json
+D:\Repository\Transferencia_Bancaria\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.json
+D:\Repository\Transferencia_Bancaria\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.dev.json
+D:\Repository\Transferencia_Bancaria\DIO.Bank\bin\Debug\net5.0\DIO.Bank.dll
+D:\Repository\Transferencia_Bancaria\DIO.Bank\bin\Debug\net5.0\ref\DIO.Bank.dll
+D:\Repository\Transferencia_Bancaria\DIO.Bank\bin\Debug\net5.0\DIO.Bank.pdb
+D:\Repository\Transferencia_Bancaria\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csprojAssemblyReference.cache
+D:\Repository\Transferencia_Bancaria\DIO.Bank\obj\Debug\net5.0\DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repository\Transferencia_Bancaria\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfoInputs.cache
+D:\Repository\Transferencia_Bancaria\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfo.cs
+D:\Repository\Transferencia_Bancaria\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csproj.CoreCompileInputs.cache
+D:\Repository\Transferencia_Bancaria\DIO.Bank\obj\Debug\net5.0\DIO.Bank.dll
+D:\Repository\Transferencia_Bancaria\DIO.Bank\obj\Debug\net5.0\ref\DIO.Bank.dll
+D:\Repository\Transferencia_Bancaria\DIO.Bank\obj\Debug\net5.0\DIO.Bank.pdb
+D:\Repository\Transferencia_Bancaria\DIO.Bank\obj\Debug\net5.0\DIO.Bank.genruntimeconfig.cache
